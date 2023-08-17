@@ -1,6 +1,6 @@
 # Vim Cheatsheet for myself
 
-Inspired & Sources from [thevaluable.dev](https://thevaulable.dev)
+Inspired & Sources from [thevaluable.dev](https://thevaluable.dev)
 
 - [Vim for beginners](https://thevaluable.dev/vim-commands-beginner/)
 - [Vim for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
