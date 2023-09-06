@@ -9,6 +9,14 @@ Inspired & Sources from [thevaluable.dev](https://thevaluable.dev)
 
 - `%`: move to the matching bracket.
 - `CTRL-e`: Scroll the window downwards.
+- `CTRL-f`: to Forward page
+- `CTRL-u`: Up the page 1/2
+- `CTRL-b`: to Back page
+- `CTRL-d`: Down the page 1/2
+- `{`, `}`: to the previous or next empty line.
+- `H`: to the Head of the page
+- `M`: to the Middle of the page
+- `L`: to the Lowest of the page
 
 ## Text objects
 
@@ -16,6 +24,12 @@ Inspired & Sources from [thevaluable.dev](https://thevaluable.dev)
 - `cis`: Change Inside Sentence (delete inside sentence and start INSERT mode)
     - A sentence should be ended with "."
 - `yip`: Yank(copy) Inside Paragraph
+
+## Visual blocks
+
+- `V`: set visual blocks by lines
+- `CTRL-v`: set visual blocks by columns (Vertically)
+    - use `I` to edit multiple lines
 
 ## Buffers
 
@@ -42,6 +56,9 @@ Windows in Vim are spaces that show the contents of the buffers. Closing windows
 - `CTRL-w R` rotates the window reverse.
 - `CTRL-w x` exchanges the next window.
 
+## Resize windows
+
+
 ## Tabs
 
 Tabs contain windows.
@@ -53,4 +70,11 @@ Tabs contain windows.
 - `gt` goes to the next tab.
 - `gT` goes to the previous tab.
 
+# Plugins
 
+## vim-go
+
+### Move
+
+- `[[` moves the cursor to the previous function.
+- `]]` moves the cursor to the next function.
